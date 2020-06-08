@@ -1,0 +1,22 @@
+.container {
+	padding: 20px;
+	width: 500px;
+	height: auto;
+	position: absolute;
+	top: calc(50% - 150px);
+	left: calc(50% - 250px);
+	border: 1px solid;
+}
+
+.title {
+	text-align: center;
+}
+
+.btn {
+	width: 460px;
+}
+
+.danger {
+	color: red;
+	padding: 5px;
+}
